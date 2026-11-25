@@ -21,10 +21,8 @@ Build an interactive Power BI dashboard that lets an executive see sales and pro
 
 ## Key insights
 
-> Add three to five insights here, each with the figure it comes from, so the page matches the dashboard.
-
-1.Technology products are the strongest sales contributors
-2.Furniture profitability needs attention.The business should investigate Furniture's costs, pricing strategies, and discounting practices to improve profitability
-3.The company generated approximately $2.3 million in sales and $286K in profit, with a profit margin of 12.47% across 5,009 orders
+1.Technology products are the strongest sales contributors                                        
+2.Furniture profitability needs attention.The business should investigate Furniture's costs, pricing strategies, and discounting practices to improve profitability      
+3.The company generated approximately $2.3 million in sales and $286K in profit, with a profit margin of 12.47% across 5,009 orders                                
 
 
