@@ -21,10 +21,10 @@ Explore the Superstore Retail Sales dataset, clean it, and find out business fin
 ## Key findings
 
 
-1.The business is healthy and growing
-2.Sales are strongly seasonal
-3.Furniture is having a profit problem , not a sales problem
-4.Discounts above 20% destroys profit
-5.The Central region is the weak spot, and discounting explains it
+1.The business is healthy and growing                                                                                    
+2.Sales are strongly seasonal                                                                           
+3.Furniture is having a profit problem , not a sales problem                                                              
+4.Discounts above 20% destroys profit                                              
+5.The Central region is the weak spot, and discounting explains it                                              
 
 The dataset must be in the `data/` folder.
