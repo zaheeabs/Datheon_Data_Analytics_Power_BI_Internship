@@ -21,7 +21,7 @@ Explore the Superstore Retail Sales dataset, clean it, and find out business fin
 ## Key findings
 
 
-1.The business is healthy and growing 
+1.The business is healthy and growing
 2.Sales are strongly seasonal
 3.Furniture is having a profit problem , not a sales problem
 4.Discounts above 20% destroys profit
